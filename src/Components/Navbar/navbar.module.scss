@@ -1,20 +1,25 @@
 
 .container{
     display: flex;
-    background-color: violet;
+    background-color: #372549;
     justify-content: space-around;
     font-size: larger;
     font-weight: 900;
-    color: black;
+    color: #eacdc2;
 
     a {
       padding: 30px;
-      color: black;
+      color:#eacdc2;
       text-decoration: none;
     }
 
  &:hover {
     background-color: blanchedalmond;
+   
+   
+   a{ color:#372549;
  }   
+p{ color: #372549;}
 
+ }
 }

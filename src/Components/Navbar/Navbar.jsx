@@ -7,7 +7,7 @@ const Navbar = ({icono}) => {
   return (
     <nav className={Styles.container}>
  <a href="#" > 
- <img src="../images/logoTaani.jpg" alt="" width="130" height="90"/></a>     
+ <img src="../images/logotaani.jpg" alt="" width="130" height="90"/></a>     
  <a href="#" className="opcion" >INICIO</a> 
  <a href="#" className="opcion">PRODUCTOS</a> 
  <a href="#" className="opcion">NOSOTROS</a> 

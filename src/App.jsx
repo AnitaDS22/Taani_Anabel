@@ -11,7 +11,7 @@ function App() {
   
     <><div>
       <Navbar />
-      <h1 style={{ backgroundColor: "violet", color: "white" }}> TAANI </h1>
+      <h1 style={{ backgroundColor: "black", color: "white" }}> TAANI </h1>
     
     </div><div>
         <Button texto="Collares" />
