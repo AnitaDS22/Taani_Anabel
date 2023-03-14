@@ -10,7 +10,7 @@ function App() {
   return (
   
     <><div>
-      <Navbar />
+      <Navbar/>
       <h1 style={{ backgroundColor: "black", color: "white" }}> TAANI </h1>
     
     </div><div>
