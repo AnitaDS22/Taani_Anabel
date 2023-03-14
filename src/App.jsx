@@ -1,7 +1,7 @@
 
 import "./App.css";
 import Button from "./Components/Button";
-import { ItemListContainer } from "./Components/ItemListContainer";
+import ItemListContainer from "./Components/ItemListContainer";
 import Navbar from "./Components/Navbar/Navbar";
 
 
