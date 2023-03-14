@@ -3,6 +3,15 @@
     display: flex;
     background-color: violet;
     justify-content: space-around;
+    font-size: larger;
+    font-weight: 900;
+    color: black;
+
+    a {
+      padding: 30px;
+      color: black;
+      text-decoration: none;
+    }
 
  &:hover {
     background-color: blanchedalmond;

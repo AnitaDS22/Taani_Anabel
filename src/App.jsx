@@ -1,6 +1,7 @@
 
 import "./App.css";
 import Button from "./Components/Button";
+import { ItemListContainer } from "./Components/ItemListContainer";
 import Navbar from "./Components/Navbar/Navbar";
 
 
@@ -16,7 +17,11 @@ function App() {
         <Button texto="Collares" />
         <Button texto="Pulceras" />
         <Button texto="Aros" />
-      </div></>
+      </div>
+      <div> 
+        <ItemListContainer greetin="La simplicidad es la clave de la verdadera elegancia"/>
+      </div>
+      </>
 
   
   );
