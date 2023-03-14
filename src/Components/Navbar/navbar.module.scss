@@ -1,0 +1,11 @@
+
+.container{
+    display: flex;
+    background-color: violet;
+    justify-content: space-around;
+
+ &:hover {
+    background-color: blanchedalmond;
+ }   
+
+}
